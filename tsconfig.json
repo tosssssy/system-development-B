@@ -5,8 +5,7 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "noUncheckedIndexedAccess": true,
-    "exactOptionalPropertyTypes": true,
+    "strictNullChecks": false,
     "skipLibCheck": true,
     "moduleResolution": "node"
   },
