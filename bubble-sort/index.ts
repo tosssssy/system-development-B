@@ -28,10 +28,10 @@ console.log(
   ),
 )
 
-// desc, 配列の要素20個
+// desc, 配列の要素30個
 console.log(
   bubbleSort(
-    [...Array(20)].map(() => Math.floor(Math.random() * 100)),
+    [...Array(30)].map(() => Math.floor(Math.random() * 100)),
     'desc',
   ),
 )
